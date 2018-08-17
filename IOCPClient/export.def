@@ -1,0 +1,9 @@
+LIBRARY IocpClient
+
+EXPORTS
+
+     initIocp @1
+	 startIocp @2
+     setGetDestHostFn @3
+	 setRequestBuilder @4
+	 setOnResponse @5
